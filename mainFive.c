@@ -41,7 +41,7 @@ typedef struct AddressFirstLine {
 
 } AddressInfo;
 
-//---QUEUE OPERATIONS, TO BE PUT IN ANOTHER FILE--------------------------------------//
+//---QUEUE OPERATIONS, TO BE PUT IN ANOTHER FILE----------------------------------------------------------//
 // Define a node for the queue
 typedef struct QueueNode {
     AddressInfo data;
@@ -82,6 +82,7 @@ void enqueueDestSrc(Queue* queue, unsigned int dest, unsigned int src) {
     AddressInfo data;
     data.DestAddress = dest;
     data.srcAddress = src;
+    //printf("dstM: %08x srcM: %08x\n", data.DestAddress, data.srcAddress);
     QueueNode* newNode = createNode(data);
 
     if (queue->rear == NULL) {
@@ -98,7 +99,7 @@ void enqueueEIPByte(Queue* queue, unsigned int eip, int byteLength) {
     data.EIPAddress = eip;
     data.byteLength = byteLength;
     QueueNode* newNode = createNode(data);
-    printf("newNode EIPByte: %x %d\n", data.EIPAddress, data.byteLength);
+    //printf("newNode EIPByte: %08x %d\n", data.EIPAddress, data.byteLength);
 
     if (queue->rear == NULL) {
         queue->front = queue->rear = newNode;
@@ -127,7 +128,7 @@ AddressInfo dequeue(Queue* queue) {
     return data;
 }
 
-//------------------------------------------------END OF QUEUE OPERATIONS//
+//-----------------------------------------------------------------------END OF QUEUE OPERATIONS//
 
 
 
@@ -215,13 +216,12 @@ Cache* init_cache(int size, int block_size, int associativity, const char * poli
     return cache;
 }
 
-void parseEIPLine(const char* line) {
+void parseEIPLine(const char* line, Queue* queue) {
     int byteLength;
     unsigned int eipAddress;
-    Queue* queue = initializeQueue();
 
     //printf("Eip line: %s\n", line);
-    if (sscanf(line, "EIP (%d): %x", &byteLength, &eipAddress) == 2) {
+    if (sscanf(line, "EIP (%d): %8x", &byteLength, &eipAddress) == 2) {
         // Store values in the AddressInfo struct
             //printf("EIP (%d): %x\n", byteLength, eipAddress);
         enqueueEIPByte(queue, eipAddress, byteLength);
@@ -233,21 +233,26 @@ void parseEIPLine(const char* line) {
     // ...
 }
 
-void parseDstMLine(const char* line) {
-    unsigned int destAddress, machCodeOne, srcAddress, machCodeTwo;
-    Queue* queue = initializeQueue();
-     if (sscanf(line, "dstM: %x %x srcM: %x %x", &destAddress, &machCodeOne, &srcAddress, &machCodeTwo)== 4) 
-     {
-        //printf("dstM: %x %x srcM: %x %x\n", destAddress, machCodeOne, srcAddress, machCodeTwo);
-        enqueueDestSrc(queue, destAddress, srcAddress);
-     }
-                    //printf
-    // Parse the line starting with "dstM"
-    // Extract the necessary information and perform any required processing
-    // For example:
-    // sscanf(line, "dstM: %x %x srcM: %x %x", &DestAddress, &machCodeOne, &srcAddress, &machCodeTwo);
-    // ...
+void parseDstMLine(const char* line, Queue* queue) {
+    char *dstM_start = strstr(line, "dstM:");
+    char *srcM_start = strstr(line, "srcM:");
+
+    if (dstM_start && srcM_start) {
+        unsigned int dstM_value, srcM_value;
+        if (sscanf(dstM_start, "dstM: %8x", &dstM_value) == 1 &&
+            sscanf(srcM_start, "srcM: %8x", &srcM_value) == 1) {
+            //printf("dstM: %08x\n", dstM_value);
+            //printf("srcM: %08x\n", srcM_value);
+            enqueueDestSrc(queue, dstM_value, srcM_value);
+        } else {
+            printf("Parsing failed.\n");
+        }
+    } else {
+        printf("dstM or srcM not found in the input.\n");
+    }
+
 }
+
 
 
 
@@ -331,20 +336,46 @@ int main(int argc, char* argv[])
     int byteLength;
     unsigned int DestAddress;
     unsigned int SrcAddress;
+    Queue* queue = initializeQueue();
 
         while (fgets(line, sizeof(line), fp) != NULL) {
             if (strstr(line, "EIP") == line) {
                 // Line starts with "EIP"
-                parseEIPLine(line);
+                parseEIPLine(line, queue);
             } else if (strstr(line, "dstM") == line) {
                 // Line starts with "dstM"
-                parseDstMLine(line);
+                parseDstMLine(line, queue);
             } else if (line[0] == '\n') {
                 continue;
                 // Handle the empty line as needed
             }
         }
         fclose(fp);
+
+        while (queue != NULL){
+            AddressInfo element1 = dequeue(queue);
+            //printf("Combined EIPAddress and byteLength: EIP=%08x, byteLength=%d\n", element1.EIPAddress, element1.byteLength);
+            printf("Address: %08x, length = %d ", element1.EIPAddress, element1.byteLength);
+
+            AddressInfo element2 = dequeue(queue);
+            //printf("Combined DestAddress and srcAddress: Dest=%08x, src=%08x\n", element2.DestAddress, element2.srcAddress);
+            if ( element2.DestAddress == 0 && element2.srcAddress != 0)
+            {
+                printf(" No data writes and Data read at %08x, length=4\n", element2.srcAddress);
+            }
+            else if ( element2.DestAddress != 0 && element2.srcAddress == 0)
+            {
+                printf("Data write at %08x and length=4, no data reads\n", element2.srcAddress);
+            }
+            else if ( element2.DestAddress == 0 && element2.srcAddress == 0)
+            {
+                printf("No data writes/reads occurred\n");
+            }
+            else {
+                printf("Data write at %08x, length=4 and Data read at %08x, length=4\n", element2.DestAddress, element2.srcAddress);
+            }
+
+        }
 
         // Call the function to read and print the values in the array
 
@@ -388,8 +419,8 @@ int main(int argc, char* argv[])
     // cache->block_size = block_size;
     // cache->associativity = associativity;
     // cache->policy = policy;
-    //./mFv.exe -f trace1.trc -s 512 -b 16 -a 8 -r RND -p 1
-    // gcc mainFive.c -o mFv
+    //./mSx.exe -f trace1.trc -s 512 -b 16 -a 8 -r RND -p 1
+    // gcc mainSix.c -o mSx
 
     return 0;
 }
