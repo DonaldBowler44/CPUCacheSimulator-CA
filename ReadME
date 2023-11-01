@@ -1,0 +1,25 @@
+Cache Simulator: Cache Simulator is a program written in C that simulates cache operations based on a given memory access trace file. It helps analyze cache hits, misses, and other relevant metrics to evaluate cache performance.
+
+--- Prerequisites
+GCC Compiler: Ensure you have GCC installed on your system to compile the source code.
+
+--- Compilation
+Compile the program using the following command:
+gcc -o cache_simulator main.c cache.c queue.c -lm
+
+---- Usage
+Run the cache simulator with the following command:
+./cache_simulator -f trace_file.trc -s CACHE_SIZE -b BLOCK_SIZE -a ASSOCIATIVITY -r REPLACEMENT_POLICY -p PHYSICAL_MEMORY_SIZE
+
+trace_file.trc: Path to the trace file containing memory access patterns.
+CACHE_SIZE: Size of the cache in KB (e.g., 512 for 512 KB).
+BLOCK_SIZE: Block size in bytes (e.g., 16 for 16 bytes).
+ASSOCIATIVITY: Associativity of the cache (e.g., 8 for 8-way set associative).
+REPLACEMENT_POLICY: Cache replacement policy (either "RR" for Round Robin or "RND" for Random).
+PHYSICAL_MEMORY_SIZE: Size of physical memory in KB (e.g., 1024 for 1 MB).
+
+--- Output
+The program will simulate cache operations based on the provided trace file and display cache hits, misses, and other relevant information.
+
+--- Example
+./cache_simulator -f trace1.trc -s 512 -b 16 -a 8 -r RR -p 1
