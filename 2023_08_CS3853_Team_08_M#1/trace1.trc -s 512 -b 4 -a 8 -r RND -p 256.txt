@@ -1,0 +1,1036 @@
+Cache row for index 476:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=476
+Cache block 1: valid=0, dirty=0, tag=0, index=476
+Cache block 2: valid=0, dirty=0, tag=0, index=476
+Cache block 3: valid=0, dirty=0, tag=0, index=476
+Cache block 4: valid=0, dirty=0, tag=0, index=476
+Cache block 5: valid=0, dirty=0, tag=0, index=476
+Cache block 6: valid=0, dirty=0, tag=0, index=476
+Cache block 7: valid=0, dirty=0, tag=0, index=476
+Cache row for index 478:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=478
+Cache block 1: valid=0, dirty=0, tag=0, index=478
+Cache block 2: valid=0, dirty=0, tag=0, index=478
+Cache block 3: valid=0, dirty=0, tag=0, index=478
+Cache block 4: valid=0, dirty=0, tag=0, index=478
+Cache block 5: valid=0, dirty=0, tag=0, index=478
+Cache block 6: valid=0, dirty=0, tag=0, index=478
+Cache block 7: valid=0, dirty=0, tag=0, index=478
+Cache row for index 47a:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=47a
+Cache block 1: valid=0, dirty=0, tag=0, index=47a
+Cache block 2: valid=0, dirty=0, tag=0, index=47a
+Cache block 3: valid=0, dirty=0, tag=0, index=47a
+Cache block 4: valid=0, dirty=0, tag=0, index=47a
+Cache block 5: valid=0, dirty=0, tag=0, index=47a
+Cache block 6: valid=0, dirty=0, tag=0, index=47a
+Cache block 7: valid=0, dirty=0, tag=0, index=47a
+Cache row for index 47a:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=47a
+Cache block 1: valid=0, dirty=0, tag=0, index=47a
+Cache block 2: valid=0, dirty=0, tag=0, index=47a
+Cache block 3: valid=0, dirty=0, tag=0, index=47a
+Cache block 4: valid=0, dirty=0, tag=0, index=47a
+Cache block 5: valid=0, dirty=0, tag=0, index=47a
+Cache block 6: valid=0, dirty=0, tag=0, index=47a
+Cache block 7: valid=0, dirty=0, tag=0, index=47a
+Cache row for index 47b:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=47b
+Cache block 1: valid=0, dirty=0, tag=0, index=47b
+Cache block 2: valid=0, dirty=0, tag=0, index=47b
+Cache block 3: valid=0, dirty=0, tag=0, index=47b
+Cache block 4: valid=0, dirty=0, tag=0, index=47b
+Cache block 5: valid=0, dirty=0, tag=0, index=47b
+Cache block 6: valid=0, dirty=0, tag=0, index=47b
+Cache block 7: valid=0, dirty=0, tag=0, index=47b
+Cache row for index 47c:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=47c
+Cache block 1: valid=0, dirty=0, tag=0, index=47c
+Cache block 2: valid=0, dirty=0, tag=0, index=47c
+Cache block 3: valid=0, dirty=0, tag=0, index=47c
+Cache block 4: valid=0, dirty=0, tag=0, index=47c
+Cache block 5: valid=0, dirty=0, tag=0, index=47c
+Cache block 6: valid=0, dirty=0, tag=0, index=47c
+Cache block 7: valid=0, dirty=0, tag=0, index=47c
+Cache row for index 47c:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=47c
+Cache block 1: valid=0, dirty=0, tag=0, index=47c
+Cache block 2: valid=0, dirty=0, tag=0, index=47c
+Cache block 3: valid=0, dirty=0, tag=0, index=47c
+Cache block 4: valid=0, dirty=0, tag=0, index=47c
+Cache block 5: valid=0, dirty=0, tag=0, index=47c
+Cache block 6: valid=0, dirty=0, tag=0, index=47c
+Cache block 7: valid=0, dirty=0, tag=0, index=47c
+Cache row for index 47c:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=47c
+Cache block 1: valid=0, dirty=0, tag=0, index=47c
+Cache block 2: valid=0, dirty=0, tag=0, index=47c
+Cache block 3: valid=0, dirty=0, tag=0, index=47c
+Cache block 4: valid=0, dirty=0, tag=0, index=47c
+Cache block 5: valid=0, dirty=0, tag=0, index=47c
+Cache block 6: valid=0, dirty=0, tag=0, index=47c
+Cache block 7: valid=0, dirty=0, tag=0, index=47c
+Cache row for index 247c:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=247c
+Cache block 1: valid=0, dirty=0, tag=0, index=247c
+Cache block 2: valid=0, dirty=0, tag=0, index=247c
+Cache block 3: valid=0, dirty=0, tag=0, index=247c
+Cache block 4: valid=0, dirty=0, tag=0, index=247c
+Cache block 5: valid=0, dirty=0, tag=0, index=247c
+Cache block 6: valid=0, dirty=0, tag=0, index=247c
+Cache block 7: valid=0, dirty=0, tag=0, index=247c
+Cache row for index 247e:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=247e
+Cache block 1: valid=0, dirty=0, tag=0, index=247e
+Cache block 2: valid=0, dirty=0, tag=0, index=247e
+Cache block 3: valid=0, dirty=0, tag=0, index=247e
+Cache block 4: valid=0, dirty=0, tag=0, index=247e
+Cache block 5: valid=0, dirty=0, tag=0, index=247e
+Cache block 6: valid=0, dirty=0, tag=0, index=247e
+Cache block 7: valid=0, dirty=0, tag=0, index=247e
+Cache row for index 247e:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=247e
+Cache block 1: valid=0, dirty=0, tag=0, index=247e
+Cache block 2: valid=0, dirty=0, tag=0, index=247e
+Cache block 3: valid=0, dirty=0, tag=0, index=247e
+Cache block 4: valid=0, dirty=0, tag=0, index=247e
+Cache block 5: valid=0, dirty=0, tag=0, index=247e
+Cache block 6: valid=0, dirty=0, tag=0, index=247e
+Cache block 7: valid=0, dirty=0, tag=0, index=247e
+Cache row for index 247f:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=247f
+Cache block 1: valid=0, dirty=0, tag=0, index=247f
+Cache block 2: valid=0, dirty=0, tag=0, index=247f
+Cache block 3: valid=0, dirty=0, tag=0, index=247f
+Cache block 4: valid=0, dirty=0, tag=0, index=247f
+Cache block 5: valid=0, dirty=0, tag=0, index=247f
+Cache block 6: valid=0, dirty=0, tag=0, index=247f
+Cache block 7: valid=0, dirty=0, tag=0, index=247f
+Cache row for index 2481:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=2481
+Cache block 1: valid=0, dirty=0, tag=0, index=2481
+Cache block 2: valid=0, dirty=0, tag=0, index=2481
+Cache block 3: valid=0, dirty=0, tag=0, index=2481
+Cache block 4: valid=0, dirty=0, tag=0, index=2481
+Cache block 5: valid=0, dirty=0, tag=0, index=2481
+Cache block 6: valid=0, dirty=0, tag=0, index=2481
+Cache block 7: valid=0, dirty=0, tag=0, index=2481
+Cache row for index 2481:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=2481
+Cache block 1: valid=0, dirty=0, tag=0, index=2481
+Cache block 2: valid=0, dirty=0, tag=0, index=2481
+Cache block 3: valid=0, dirty=0, tag=0, index=2481
+Cache block 4: valid=0, dirty=0, tag=0, index=2481
+Cache block 5: valid=0, dirty=0, tag=0, index=2481
+Cache block 6: valid=0, dirty=0, tag=0, index=2481
+Cache block 7: valid=0, dirty=0, tag=0, index=2481
+Cache row for index 2482:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=2482
+Cache block 1: valid=0, dirty=0, tag=0, index=2482
+Cache block 2: valid=0, dirty=0, tag=0, index=2482
+Cache block 3: valid=0, dirty=0, tag=0, index=2482
+Cache block 4: valid=0, dirty=0, tag=0, index=2482
+Cache block 5: valid=0, dirty=0, tag=0, index=2482
+Cache block 6: valid=0, dirty=0, tag=0, index=2482
+Cache block 7: valid=0, dirty=0, tag=0, index=2482
+Cache row for index 2482:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=2482
+Cache block 1: valid=0, dirty=0, tag=0, index=2482
+Cache block 2: valid=0, dirty=0, tag=0, index=2482
+Cache block 3: valid=0, dirty=0, tag=0, index=2482
+Cache block 4: valid=0, dirty=0, tag=0, index=2482
+Cache block 5: valid=0, dirty=0, tag=0, index=2482
+Cache block 6: valid=0, dirty=0, tag=0, index=2482
+Cache block 7: valid=0, dirty=0, tag=0, index=2482
+Cache row for index 2483:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=2483
+Cache block 1: valid=0, dirty=0, tag=0, index=2483
+Cache block 2: valid=0, dirty=0, tag=0, index=2483
+Cache block 3: valid=0, dirty=0, tag=0, index=2483
+Cache block 4: valid=0, dirty=0, tag=0, index=2483
+Cache block 5: valid=0, dirty=0, tag=0, index=2483
+Cache block 6: valid=0, dirty=0, tag=0, index=2483
+Cache block 7: valid=0, dirty=0, tag=0, index=2483
+Cache row for index 464:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=464
+Cache block 1: valid=0, dirty=0, tag=0, index=464
+Cache block 2: valid=0, dirty=0, tag=0, index=464
+Cache block 3: valid=0, dirty=0, tag=0, index=464
+Cache block 4: valid=0, dirty=0, tag=0, index=464
+Cache block 5: valid=0, dirty=0, tag=0, index=464
+Cache block 6: valid=0, dirty=0, tag=0, index=464
+Cache block 7: valid=0, dirty=0, tag=0, index=464
+Cache row for index 465:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=465
+Cache block 1: valid=0, dirty=0, tag=0, index=465
+Cache block 2: valid=0, dirty=0, tag=0, index=465
+Cache block 3: valid=0, dirty=0, tag=0, index=465
+Cache block 4: valid=0, dirty=0, tag=0, index=465
+Cache block 5: valid=0, dirty=0, tag=0, index=465
+Cache block 6: valid=0, dirty=0, tag=0, index=465
+Cache block 7: valid=0, dirty=0, tag=0, index=465
+Cache row for index 465:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=465
+Cache block 1: valid=0, dirty=0, tag=0, index=465
+Cache block 2: valid=0, dirty=0, tag=0, index=465
+Cache block 3: valid=0, dirty=0, tag=0, index=465
+Cache block 4: valid=0, dirty=0, tag=0, index=465
+Cache block 5: valid=0, dirty=0, tag=0, index=465
+Cache block 6: valid=0, dirty=0, tag=0, index=465
+Cache block 7: valid=0, dirty=0, tag=0, index=465
+Cache row for index 465:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=465
+Cache block 1: valid=0, dirty=0, tag=0, index=465
+Cache block 2: valid=0, dirty=0, tag=0, index=465
+Cache block 3: valid=0, dirty=0, tag=0, index=465
+Cache block 4: valid=0, dirty=0, tag=0, index=465
+Cache block 5: valid=0, dirty=0, tag=0, index=465
+Cache block 6: valid=0, dirty=0, tag=0, index=465
+Cache block 7: valid=0, dirty=0, tag=0, index=465
+Cache row for index 466:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=466
+Cache block 1: valid=0, dirty=0, tag=0, index=466
+Cache block 2: valid=0, dirty=0, tag=0, index=466
+Cache block 3: valid=0, dirty=0, tag=0, index=466
+Cache block 4: valid=0, dirty=0, tag=0, index=466
+Cache block 5: valid=0, dirty=0, tag=0, index=466
+Cache block 6: valid=0, dirty=0, tag=0, index=466
+Cache block 7: valid=0, dirty=0, tag=0, index=466
+Cache row for index 466:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=466
+Cache block 1: valid=0, dirty=0, tag=0, index=466
+Cache block 2: valid=0, dirty=0, tag=0, index=466
+Cache block 3: valid=0, dirty=0, tag=0, index=466
+Cache block 4: valid=0, dirty=0, tag=0, index=466
+Cache block 5: valid=0, dirty=0, tag=0, index=466
+Cache block 6: valid=0, dirty=0, tag=0, index=466
+Cache block 7: valid=0, dirty=0, tag=0, index=466
+Cache row for index 466:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=466
+Cache block 1: valid=0, dirty=0, tag=0, index=466
+Cache block 2: valid=0, dirty=0, tag=0, index=466
+Cache block 3: valid=0, dirty=0, tag=0, index=466
+Cache block 4: valid=0, dirty=0, tag=0, index=466
+Cache block 5: valid=0, dirty=0, tag=0, index=466
+Cache block 6: valid=0, dirty=0, tag=0, index=466
+Cache block 7: valid=0, dirty=0, tag=0, index=466
+Cache row for index 467:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=467
+Cache block 1: valid=0, dirty=0, tag=0, index=467
+Cache block 2: valid=0, dirty=0, tag=0, index=467
+Cache block 3: valid=0, dirty=0, tag=0, index=467
+Cache block 4: valid=0, dirty=0, tag=0, index=467
+Cache block 5: valid=0, dirty=0, tag=0, index=467
+Cache block 6: valid=0, dirty=0, tag=0, index=467
+Cache block 7: valid=0, dirty=0, tag=0, index=467
+Cache row for index 468:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=468
+Cache block 1: valid=0, dirty=0, tag=0, index=468
+Cache block 2: valid=0, dirty=0, tag=0, index=468
+Cache block 3: valid=0, dirty=0, tag=0, index=468
+Cache block 4: valid=0, dirty=0, tag=0, index=468
+Cache block 5: valid=0, dirty=0, tag=0, index=468
+Cache block 6: valid=0, dirty=0, tag=0, index=468
+Cache block 7: valid=0, dirty=0, tag=0, index=468
+Cache row for index 469:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=469
+Cache block 1: valid=0, dirty=0, tag=0, index=469
+Cache block 2: valid=0, dirty=0, tag=0, index=469
+Cache block 3: valid=0, dirty=0, tag=0, index=469
+Cache block 4: valid=0, dirty=0, tag=0, index=469
+Cache block 5: valid=0, dirty=0, tag=0, index=469
+Cache block 6: valid=0, dirty=0, tag=0, index=469
+Cache block 7: valid=0, dirty=0, tag=0, index=469
+Cache row for index c55:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=c55
+Cache block 1: valid=0, dirty=0, tag=0, index=c55
+Cache block 2: valid=0, dirty=0, tag=0, index=c55
+Cache block 3: valid=0, dirty=0, tag=0, index=c55
+Cache block 4: valid=0, dirty=0, tag=0, index=c55
+Cache block 5: valid=0, dirty=0, tag=0, index=c55
+Cache block 6: valid=0, dirty=0, tag=0, index=c55
+Cache block 7: valid=0, dirty=0, tag=0, index=c55
+Cache row for index c56:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=c56
+Cache block 1: valid=0, dirty=0, tag=0, index=c56
+Cache block 2: valid=0, dirty=0, tag=0, index=c56
+Cache block 3: valid=0, dirty=0, tag=0, index=c56
+Cache block 4: valid=0, dirty=0, tag=0, index=c56
+Cache block 5: valid=0, dirty=0, tag=0, index=c56
+Cache block 6: valid=0, dirty=0, tag=0, index=c56
+Cache block 7: valid=0, dirty=0, tag=0, index=c56
+Cache row for index c56:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=c56
+Cache block 1: valid=0, dirty=0, tag=0, index=c56
+Cache block 2: valid=0, dirty=0, tag=0, index=c56
+Cache block 3: valid=0, dirty=0, tag=0, index=c56
+Cache block 4: valid=0, dirty=0, tag=0, index=c56
+Cache block 5: valid=0, dirty=0, tag=0, index=c56
+Cache block 6: valid=0, dirty=0, tag=0, index=c56
+Cache block 7: valid=0, dirty=0, tag=0, index=c56
+Cache row for index c56:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=c56
+Cache block 1: valid=0, dirty=0, tag=0, index=c56
+Cache block 2: valid=0, dirty=0, tag=0, index=c56
+Cache block 3: valid=0, dirty=0, tag=0, index=c56
+Cache block 4: valid=0, dirty=0, tag=0, index=c56
+Cache block 5: valid=0, dirty=0, tag=0, index=c56
+Cache block 6: valid=0, dirty=0, tag=0, index=c56
+Cache block 7: valid=0, dirty=0, tag=0, index=c56
+Cache row for index c57:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=c57
+Cache block 1: valid=0, dirty=0, tag=0, index=c57
+Cache block 2: valid=0, dirty=0, tag=0, index=c57
+Cache block 3: valid=0, dirty=0, tag=0, index=c57
+Cache block 4: valid=0, dirty=0, tag=0, index=c57
+Cache block 5: valid=0, dirty=0, tag=0, index=c57
+Cache block 6: valid=0, dirty=0, tag=0, index=c57
+Cache block 7: valid=0, dirty=0, tag=0, index=c57
+Cache row for index c59:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=c59
+Cache block 1: valid=0, dirty=0, tag=0, index=c59
+Cache block 2: valid=0, dirty=0, tag=0, index=c59
+Cache block 3: valid=0, dirty=0, tag=0, index=c59
+Cache block 4: valid=0, dirty=0, tag=0, index=c59
+Cache block 5: valid=0, dirty=0, tag=0, index=c59
+Cache block 6: valid=0, dirty=0, tag=0, index=c59
+Cache block 7: valid=0, dirty=0, tag=0, index=c59
+Cache row for index c59:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=c59
+Cache block 1: valid=0, dirty=0, tag=0, index=c59
+Cache block 2: valid=0, dirty=0, tag=0, index=c59
+Cache block 3: valid=0, dirty=0, tag=0, index=c59
+Cache block 4: valid=0, dirty=0, tag=0, index=c59
+Cache block 5: valid=0, dirty=0, tag=0, index=c59
+Cache block 6: valid=0, dirty=0, tag=0, index=c59
+Cache block 7: valid=0, dirty=0, tag=0, index=c59
+Cache row for index c5a:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=c5a
+Cache block 1: valid=0, dirty=0, tag=0, index=c5a
+Cache block 2: valid=0, dirty=0, tag=0, index=c5a
+Cache block 3: valid=0, dirty=0, tag=0, index=c5a
+Cache block 4: valid=0, dirty=0, tag=0, index=c5a
+Cache block 5: valid=0, dirty=0, tag=0, index=c5a
+Cache block 6: valid=0, dirty=0, tag=0, index=c5a
+Cache block 7: valid=0, dirty=0, tag=0, index=c5a
+Cache row for index c5a:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=c5a
+Cache block 1: valid=0, dirty=0, tag=0, index=c5a
+Cache block 2: valid=0, dirty=0, tag=0, index=c5a
+Cache block 3: valid=0, dirty=0, tag=0, index=c5a
+Cache block 4: valid=0, dirty=0, tag=0, index=c5a
+Cache block 5: valid=0, dirty=0, tag=0, index=c5a
+Cache block 6: valid=0, dirty=0, tag=0, index=c5a
+Cache block 7: valid=0, dirty=0, tag=0, index=c5a
+Cache row for index 469:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=469
+Cache block 1: valid=0, dirty=0, tag=0, index=469
+Cache block 2: valid=0, dirty=0, tag=0, index=469
+Cache block 3: valid=0, dirty=0, tag=0, index=469
+Cache block 4: valid=0, dirty=0, tag=0, index=469
+Cache block 5: valid=0, dirty=0, tag=0, index=469
+Cache block 6: valid=0, dirty=0, tag=0, index=469
+Cache block 7: valid=0, dirty=0, tag=0, index=469
+Cache row for index 46a:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=46a
+Cache block 1: valid=0, dirty=0, tag=0, index=46a
+Cache block 2: valid=0, dirty=0, tag=0, index=46a
+Cache block 3: valid=0, dirty=0, tag=0, index=46a
+Cache block 4: valid=0, dirty=0, tag=0, index=46a
+Cache block 5: valid=0, dirty=0, tag=0, index=46a
+Cache block 6: valid=0, dirty=0, tag=0, index=46a
+Cache block 7: valid=0, dirty=0, tag=0, index=46a
+Cache row for index 46a:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=46a
+Cache block 1: valid=0, dirty=0, tag=0, index=46a
+Cache block 2: valid=0, dirty=0, tag=0, index=46a
+Cache block 3: valid=0, dirty=0, tag=0, index=46a
+Cache block 4: valid=0, dirty=0, tag=0, index=46a
+Cache block 5: valid=0, dirty=0, tag=0, index=46a
+Cache block 6: valid=0, dirty=0, tag=0, index=46a
+Cache block 7: valid=0, dirty=0, tag=0, index=46a
+Cache row for index 46a:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=46a
+Cache block 1: valid=0, dirty=0, tag=0, index=46a
+Cache block 2: valid=0, dirty=0, tag=0, index=46a
+Cache block 3: valid=0, dirty=0, tag=0, index=46a
+Cache block 4: valid=0, dirty=0, tag=0, index=46a
+Cache block 5: valid=0, dirty=0, tag=0, index=46a
+Cache block 6: valid=0, dirty=0, tag=0, index=46a
+Cache block 7: valid=0, dirty=0, tag=0, index=46a
+Cache row for index 46b:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=46b
+Cache block 1: valid=0, dirty=0, tag=0, index=46b
+Cache block 2: valid=0, dirty=0, tag=0, index=46b
+Cache block 3: valid=0, dirty=0, tag=0, index=46b
+Cache block 4: valid=0, dirty=0, tag=0, index=46b
+Cache block 5: valid=0, dirty=0, tag=0, index=46b
+Cache block 6: valid=0, dirty=0, tag=0, index=46b
+Cache block 7: valid=0, dirty=0, tag=0, index=46b
+Cache row for index 46b:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=46b
+Cache block 1: valid=0, dirty=0, tag=0, index=46b
+Cache block 2: valid=0, dirty=0, tag=0, index=46b
+Cache block 3: valid=0, dirty=0, tag=0, index=46b
+Cache block 4: valid=0, dirty=0, tag=0, index=46b
+Cache block 5: valid=0, dirty=0, tag=0, index=46b
+Cache block 6: valid=0, dirty=0, tag=0, index=46b
+Cache block 7: valid=0, dirty=0, tag=0, index=46b
+Cache row for index 2484:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=2484
+Cache block 1: valid=0, dirty=0, tag=0, index=2484
+Cache block 2: valid=0, dirty=0, tag=0, index=2484
+Cache block 3: valid=0, dirty=0, tag=0, index=2484
+Cache block 4: valid=0, dirty=0, tag=0, index=2484
+Cache block 5: valid=0, dirty=0, tag=0, index=2484
+Cache block 6: valid=0, dirty=0, tag=0, index=2484
+Cache block 7: valid=0, dirty=0, tag=0, index=2484
+Cache row for index 2485:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=2485
+Cache block 1: valid=0, dirty=0, tag=0, index=2485
+Cache block 2: valid=0, dirty=0, tag=0, index=2485
+Cache block 3: valid=0, dirty=0, tag=0, index=2485
+Cache block 4: valid=0, dirty=0, tag=0, index=2485
+Cache block 5: valid=0, dirty=0, tag=0, index=2485
+Cache block 6: valid=0, dirty=0, tag=0, index=2485
+Cache block 7: valid=0, dirty=0, tag=0, index=2485
+Cache row for index 2489:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=2489
+Cache block 1: valid=0, dirty=0, tag=0, index=2489
+Cache block 2: valid=0, dirty=0, tag=0, index=2489
+Cache block 3: valid=0, dirty=0, tag=0, index=2489
+Cache block 4: valid=0, dirty=0, tag=0, index=2489
+Cache block 5: valid=0, dirty=0, tag=0, index=2489
+Cache block 6: valid=0, dirty=0, tag=0, index=2489
+Cache block 7: valid=0, dirty=0, tag=0, index=2489
+Cache row for index 248a:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=248a
+Cache block 1: valid=0, dirty=0, tag=0, index=248a
+Cache block 2: valid=0, dirty=0, tag=0, index=248a
+Cache block 3: valid=0, dirty=0, tag=0, index=248a
+Cache block 4: valid=0, dirty=0, tag=0, index=248a
+Cache block 5: valid=0, dirty=0, tag=0, index=248a
+Cache block 6: valid=0, dirty=0, tag=0, index=248a
+Cache block 7: valid=0, dirty=0, tag=0, index=248a
+Cache row for index 248a:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=248a
+Cache block 1: valid=0, dirty=0, tag=0, index=248a
+Cache block 2: valid=0, dirty=0, tag=0, index=248a
+Cache block 3: valid=0, dirty=0, tag=0, index=248a
+Cache block 4: valid=0, dirty=0, tag=0, index=248a
+Cache block 5: valid=0, dirty=0, tag=0, index=248a
+Cache block 6: valid=0, dirty=0, tag=0, index=248a
+Cache block 7: valid=0, dirty=0, tag=0, index=248a
+Cache row for index 47e:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=47e
+Cache block 1: valid=0, dirty=0, tag=0, index=47e
+Cache block 2: valid=0, dirty=0, tag=0, index=47e
+Cache block 3: valid=0, dirty=0, tag=0, index=47e
+Cache block 4: valid=0, dirty=0, tag=0, index=47e
+Cache block 5: valid=0, dirty=0, tag=0, index=47e
+Cache block 6: valid=0, dirty=0, tag=0, index=47e
+Cache block 7: valid=0, dirty=0, tag=0, index=47e
+Cache row for index 47f:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=47f
+Cache block 1: valid=0, dirty=0, tag=0, index=47f
+Cache block 2: valid=0, dirty=0, tag=0, index=47f
+Cache block 3: valid=0, dirty=0, tag=0, index=47f
+Cache block 4: valid=0, dirty=0, tag=0, index=47f
+Cache block 5: valid=0, dirty=0, tag=0, index=47f
+Cache block 6: valid=0, dirty=0, tag=0, index=47f
+Cache block 7: valid=0, dirty=0, tag=0, index=47f
+Cache row for index 47f:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=47f
+Cache block 1: valid=0, dirty=0, tag=0, index=47f
+Cache block 2: valid=0, dirty=0, tag=0, index=47f
+Cache block 3: valid=0, dirty=0, tag=0, index=47f
+Cache block 4: valid=0, dirty=0, tag=0, index=47f
+Cache block 5: valid=0, dirty=0, tag=0, index=47f
+Cache block 6: valid=0, dirty=0, tag=0, index=47f
+Cache block 7: valid=0, dirty=0, tag=0, index=47f
+Cache row for index 47f:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=47f
+Cache block 1: valid=0, dirty=0, tag=0, index=47f
+Cache block 2: valid=0, dirty=0, tag=0, index=47f
+Cache block 3: valid=0, dirty=0, tag=0, index=47f
+Cache block 4: valid=0, dirty=0, tag=0, index=47f
+Cache block 5: valid=0, dirty=0, tag=0, index=47f
+Cache block 6: valid=0, dirty=0, tag=0, index=47f
+Cache block 7: valid=0, dirty=0, tag=0, index=47f
+Cache row for index 480:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=480
+Cache block 1: valid=0, dirty=0, tag=0, index=480
+Cache block 2: valid=0, dirty=0, tag=0, index=480
+Cache block 3: valid=0, dirty=0, tag=0, index=480
+Cache block 4: valid=0, dirty=0, tag=0, index=480
+Cache block 5: valid=0, dirty=0, tag=0, index=480
+Cache block 6: valid=0, dirty=0, tag=0, index=480
+Cache block 7: valid=0, dirty=0, tag=0, index=480
+Cache row for index 480:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=480
+Cache block 1: valid=0, dirty=0, tag=0, index=480
+Cache block 2: valid=0, dirty=0, tag=0, index=480
+Cache block 3: valid=0, dirty=0, tag=0, index=480
+Cache block 4: valid=0, dirty=0, tag=0, index=480
+Cache block 5: valid=0, dirty=0, tag=0, index=480
+Cache block 6: valid=0, dirty=0, tag=0, index=480
+Cache block 7: valid=0, dirty=0, tag=0, index=480
+Cache row for index 482:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=482
+Cache block 1: valid=0, dirty=0, tag=0, index=482
+Cache block 2: valid=0, dirty=0, tag=0, index=482
+Cache block 3: valid=0, dirty=0, tag=0, index=482
+Cache block 4: valid=0, dirty=0, tag=0, index=482
+Cache block 5: valid=0, dirty=0, tag=0, index=482
+Cache block 6: valid=0, dirty=0, tag=0, index=482
+Cache block 7: valid=0, dirty=0, tag=0, index=482
+Cache row for index 484:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=484
+Cache block 1: valid=0, dirty=0, tag=0, index=484
+Cache block 2: valid=0, dirty=0, tag=0, index=484
+Cache block 3: valid=0, dirty=0, tag=0, index=484
+Cache block 4: valid=0, dirty=0, tag=0, index=484
+Cache block 5: valid=0, dirty=0, tag=0, index=484
+Cache block 6: valid=0, dirty=0, tag=0, index=484
+Cache block 7: valid=0, dirty=0, tag=0, index=484
+Cache row for index 484:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=484
+Cache block 1: valid=0, dirty=0, tag=0, index=484
+Cache block 2: valid=0, dirty=0, tag=0, index=484
+Cache block 3: valid=0, dirty=0, tag=0, index=484
+Cache block 4: valid=0, dirty=0, tag=0, index=484
+Cache block 5: valid=0, dirty=0, tag=0, index=484
+Cache block 6: valid=0, dirty=0, tag=0, index=484
+Cache block 7: valid=0, dirty=0, tag=0, index=484
+Cache row for index 485:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=485
+Cache block 1: valid=0, dirty=0, tag=0, index=485
+Cache block 2: valid=0, dirty=0, tag=0, index=485
+Cache block 3: valid=0, dirty=0, tag=0, index=485
+Cache block 4: valid=0, dirty=0, tag=0, index=485
+Cache block 5: valid=0, dirty=0, tag=0, index=485
+Cache block 6: valid=0, dirty=0, tag=0, index=485
+Cache block 7: valid=0, dirty=0, tag=0, index=485
+Cache row for index 487:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=487
+Cache block 1: valid=0, dirty=0, tag=0, index=487
+Cache block 2: valid=0, dirty=0, tag=0, index=487
+Cache block 3: valid=0, dirty=0, tag=0, index=487
+Cache block 4: valid=0, dirty=0, tag=0, index=487
+Cache block 5: valid=0, dirty=0, tag=0, index=487
+Cache block 6: valid=0, dirty=0, tag=0, index=487
+Cache block 7: valid=0, dirty=0, tag=0, index=487
+Cache row for index 488:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=488
+Cache block 1: valid=0, dirty=0, tag=0, index=488
+Cache block 2: valid=0, dirty=0, tag=0, index=488
+Cache block 3: valid=0, dirty=0, tag=0, index=488
+Cache block 4: valid=0, dirty=0, tag=0, index=488
+Cache block 5: valid=0, dirty=0, tag=0, index=488
+Cache block 6: valid=0, dirty=0, tag=0, index=488
+Cache block 7: valid=0, dirty=0, tag=0, index=488
+Cache row for index 489:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=489
+Cache block 1: valid=0, dirty=0, tag=0, index=489
+Cache block 2: valid=0, dirty=0, tag=0, index=489
+Cache block 3: valid=0, dirty=0, tag=0, index=489
+Cache block 4: valid=0, dirty=0, tag=0, index=489
+Cache block 5: valid=0, dirty=0, tag=0, index=489
+Cache block 6: valid=0, dirty=0, tag=0, index=489
+Cache block 7: valid=0, dirty=0, tag=0, index=489
+Cache row for index 489:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=489
+Cache block 1: valid=0, dirty=0, tag=0, index=489
+Cache block 2: valid=0, dirty=0, tag=0, index=489
+Cache block 3: valid=0, dirty=0, tag=0, index=489
+Cache block 4: valid=0, dirty=0, tag=0, index=489
+Cache block 5: valid=0, dirty=0, tag=0, index=489
+Cache block 6: valid=0, dirty=0, tag=0, index=489
+Cache block 7: valid=0, dirty=0, tag=0, index=489
+Cache row for index 48a:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=48a
+Cache block 1: valid=0, dirty=0, tag=0, index=48a
+Cache block 2: valid=0, dirty=0, tag=0, index=48a
+Cache block 3: valid=0, dirty=0, tag=0, index=48a
+Cache block 4: valid=0, dirty=0, tag=0, index=48a
+Cache block 5: valid=0, dirty=0, tag=0, index=48a
+Cache block 6: valid=0, dirty=0, tag=0, index=48a
+Cache block 7: valid=0, dirty=0, tag=0, index=48a
+Cache row for index 248b:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=248b
+Cache block 1: valid=0, dirty=0, tag=0, index=248b
+Cache block 2: valid=0, dirty=0, tag=0, index=248b
+Cache block 3: valid=0, dirty=0, tag=0, index=248b
+Cache block 4: valid=0, dirty=0, tag=0, index=248b
+Cache block 5: valid=0, dirty=0, tag=0, index=248b
+Cache block 6: valid=0, dirty=0, tag=0, index=248b
+Cache block 7: valid=0, dirty=0, tag=0, index=248b
+Cache row for index 248c:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=248c
+Cache block 1: valid=0, dirty=0, tag=0, index=248c
+Cache block 2: valid=0, dirty=0, tag=0, index=248c
+Cache block 3: valid=0, dirty=0, tag=0, index=248c
+Cache block 4: valid=0, dirty=0, tag=0, index=248c
+Cache block 5: valid=0, dirty=0, tag=0, index=248c
+Cache block 6: valid=0, dirty=0, tag=0, index=248c
+Cache block 7: valid=0, dirty=0, tag=0, index=248c
+Cache row for index 2486:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=2486
+Cache block 1: valid=0, dirty=0, tag=0, index=2486
+Cache block 2: valid=0, dirty=0, tag=0, index=2486
+Cache block 3: valid=0, dirty=0, tag=0, index=2486
+Cache block 4: valid=0, dirty=0, tag=0, index=2486
+Cache block 5: valid=0, dirty=0, tag=0, index=2486
+Cache block 6: valid=0, dirty=0, tag=0, index=2486
+Cache block 7: valid=0, dirty=0, tag=0, index=2486
+Cache row for index 2463:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=2463
+Cache block 1: valid=0, dirty=0, tag=0, index=2463
+Cache block 2: valid=0, dirty=0, tag=0, index=2463
+Cache block 3: valid=0, dirty=0, tag=0, index=2463
+Cache block 4: valid=0, dirty=0, tag=0, index=2463
+Cache block 5: valid=0, dirty=0, tag=0, index=2463
+Cache block 6: valid=0, dirty=0, tag=0, index=2463
+Cache block 7: valid=0, dirty=0, tag=0, index=2463
+Cache row for index 2463:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=2463
+Cache block 1: valid=0, dirty=0, tag=0, index=2463
+Cache block 2: valid=0, dirty=0, tag=0, index=2463
+Cache block 3: valid=0, dirty=0, tag=0, index=2463
+Cache block 4: valid=0, dirty=0, tag=0, index=2463
+Cache block 5: valid=0, dirty=0, tag=0, index=2463
+Cache block 6: valid=0, dirty=0, tag=0, index=2463
+Cache block 7: valid=0, dirty=0, tag=0, index=2463
+Cache row for index 2464:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=2464
+Cache block 1: valid=0, dirty=0, tag=0, index=2464
+Cache block 2: valid=0, dirty=0, tag=0, index=2464
+Cache block 3: valid=0, dirty=0, tag=0, index=2464
+Cache block 4: valid=0, dirty=0, tag=0, index=2464
+Cache block 5: valid=0, dirty=0, tag=0, index=2464
+Cache block 6: valid=0, dirty=0, tag=0, index=2464
+Cache block 7: valid=0, dirty=0, tag=0, index=2464
+Cache row for index 2465:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=2465
+Cache block 1: valid=0, dirty=0, tag=0, index=2465
+Cache block 2: valid=0, dirty=0, tag=0, index=2465
+Cache block 3: valid=0, dirty=0, tag=0, index=2465
+Cache block 4: valid=0, dirty=0, tag=0, index=2465
+Cache block 5: valid=0, dirty=0, tag=0, index=2465
+Cache block 6: valid=0, dirty=0, tag=0, index=2465
+Cache block 7: valid=0, dirty=0, tag=0, index=2465
+Cache row for index 2493:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=2493
+Cache block 1: valid=0, dirty=0, tag=0, index=2493
+Cache block 2: valid=0, dirty=0, tag=0, index=2493
+Cache block 3: valid=0, dirty=0, tag=0, index=2493
+Cache block 4: valid=0, dirty=0, tag=0, index=2493
+Cache block 5: valid=0, dirty=0, tag=0, index=2493
+Cache block 6: valid=0, dirty=0, tag=0, index=2493
+Cache block 7: valid=0, dirty=0, tag=0, index=2493
+Cache row for index 2495:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=2495
+Cache block 1: valid=0, dirty=0, tag=0, index=2495
+Cache block 2: valid=0, dirty=0, tag=0, index=2495
+Cache block 3: valid=0, dirty=0, tag=0, index=2495
+Cache block 4: valid=0, dirty=0, tag=0, index=2495
+Cache block 5: valid=0, dirty=0, tag=0, index=2495
+Cache block 6: valid=0, dirty=0, tag=0, index=2495
+Cache block 7: valid=0, dirty=0, tag=0, index=2495
+Cache row for index 2496:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=2496
+Cache block 1: valid=0, dirty=0, tag=0, index=2496
+Cache block 2: valid=0, dirty=0, tag=0, index=2496
+Cache block 3: valid=0, dirty=0, tag=0, index=2496
+Cache block 4: valid=0, dirty=0, tag=0, index=2496
+Cache block 5: valid=0, dirty=0, tag=0, index=2496
+Cache block 6: valid=0, dirty=0, tag=0, index=2496
+Cache block 7: valid=0, dirty=0, tag=0, index=2496
+Cache row for index 248d:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=248d
+Cache block 1: valid=0, dirty=0, tag=0, index=248d
+Cache block 2: valid=0, dirty=0, tag=0, index=248d
+Cache block 3: valid=0, dirty=0, tag=0, index=248d
+Cache block 4: valid=0, dirty=0, tag=0, index=248d
+Cache block 5: valid=0, dirty=0, tag=0, index=248d
+Cache block 6: valid=0, dirty=0, tag=0, index=248d
+Cache block 7: valid=0, dirty=0, tag=0, index=248d
+Cache row for index 248e:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=248e
+Cache block 1: valid=0, dirty=0, tag=0, index=248e
+Cache block 2: valid=0, dirty=0, tag=0, index=248e
+Cache block 3: valid=0, dirty=0, tag=0, index=248e
+Cache block 4: valid=0, dirty=0, tag=0, index=248e
+Cache block 5: valid=0, dirty=0, tag=0, index=248e
+Cache block 6: valid=0, dirty=0, tag=0, index=248e
+Cache block 7: valid=0, dirty=0, tag=0, index=248e
+Cache row for index 248e:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=248e
+Cache block 1: valid=0, dirty=0, tag=0, index=248e
+Cache block 2: valid=0, dirty=0, tag=0, index=248e
+Cache block 3: valid=0, dirty=0, tag=0, index=248e
+Cache block 4: valid=0, dirty=0, tag=0, index=248e
+Cache block 5: valid=0, dirty=0, tag=0, index=248e
+Cache block 6: valid=0, dirty=0, tag=0, index=248e
+Cache block 7: valid=0, dirty=0, tag=0, index=248e
+Cache row for index 2490:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=2490
+Cache block 1: valid=0, dirty=0, tag=0, index=2490
+Cache block 2: valid=0, dirty=0, tag=0, index=2490
+Cache block 3: valid=0, dirty=0, tag=0, index=2490
+Cache block 4: valid=0, dirty=0, tag=0, index=2490
+Cache block 5: valid=0, dirty=0, tag=0, index=2490
+Cache block 6: valid=0, dirty=0, tag=0, index=2490
+Cache block 7: valid=0, dirty=0, tag=0, index=2490
+Cache row for index 2490:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=2490
+Cache block 1: valid=0, dirty=0, tag=0, index=2490
+Cache block 2: valid=0, dirty=0, tag=0, index=2490
+Cache block 3: valid=0, dirty=0, tag=0, index=2490
+Cache block 4: valid=0, dirty=0, tag=0, index=2490
+Cache block 5: valid=0, dirty=0, tag=0, index=2490
+Cache block 6: valid=0, dirty=0, tag=0, index=2490
+Cache block 7: valid=0, dirty=0, tag=0, index=2490
+Cache row for index 2491:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=2491
+Cache block 1: valid=0, dirty=0, tag=0, index=2491
+Cache block 2: valid=0, dirty=0, tag=0, index=2491
+Cache block 3: valid=0, dirty=0, tag=0, index=2491
+Cache block 4: valid=0, dirty=0, tag=0, index=2491
+Cache block 5: valid=0, dirty=0, tag=0, index=2491
+Cache block 6: valid=0, dirty=0, tag=0, index=2491
+Cache block 7: valid=0, dirty=0, tag=0, index=2491
+Cache row for index 2492:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=2492
+Cache block 1: valid=0, dirty=0, tag=0, index=2492
+Cache block 2: valid=0, dirty=0, tag=0, index=2492
+Cache block 3: valid=0, dirty=0, tag=0, index=2492
+Cache block 4: valid=0, dirty=0, tag=0, index=2492
+Cache block 5: valid=0, dirty=0, tag=0, index=2492
+Cache block 6: valid=0, dirty=0, tag=0, index=2492
+Cache block 7: valid=0, dirty=0, tag=0, index=2492
+Cache row for index 2493:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=2493
+Cache block 1: valid=0, dirty=0, tag=0, index=2493
+Cache block 2: valid=0, dirty=0, tag=0, index=2493
+Cache block 3: valid=0, dirty=0, tag=0, index=2493
+Cache block 4: valid=0, dirty=0, tag=0, index=2493
+Cache block 5: valid=0, dirty=0, tag=0, index=2493
+Cache block 6: valid=0, dirty=0, tag=0, index=2493
+Cache block 7: valid=0, dirty=0, tag=0, index=2493
+Cache row for index 2497:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=2497
+Cache block 1: valid=0, dirty=0, tag=0, index=2497
+Cache block 2: valid=0, dirty=0, tag=0, index=2497
+Cache block 3: valid=0, dirty=0, tag=0, index=2497
+Cache block 4: valid=0, dirty=0, tag=0, index=2497
+Cache block 5: valid=0, dirty=0, tag=0, index=2497
+Cache block 6: valid=0, dirty=0, tag=0, index=2497
+Cache block 7: valid=0, dirty=0, tag=0, index=2497
+Cache row for index 2498:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=2498
+Cache block 1: valid=0, dirty=0, tag=0, index=2498
+Cache block 2: valid=0, dirty=0, tag=0, index=2498
+Cache block 3: valid=0, dirty=0, tag=0, index=2498
+Cache block 4: valid=0, dirty=0, tag=0, index=2498
+Cache block 5: valid=0, dirty=0, tag=0, index=2498
+Cache block 6: valid=0, dirty=0, tag=0, index=2498
+Cache block 7: valid=0, dirty=0, tag=0, index=2498
+Cache row for index 249c:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=249c
+Cache block 1: valid=0, dirty=0, tag=0, index=249c
+Cache block 2: valid=0, dirty=0, tag=0, index=249c
+Cache block 3: valid=0, dirty=0, tag=0, index=249c
+Cache block 4: valid=0, dirty=0, tag=0, index=249c
+Cache block 5: valid=0, dirty=0, tag=0, index=249c
+Cache block 6: valid=0, dirty=0, tag=0, index=249c
+Cache block 7: valid=0, dirty=0, tag=0, index=249c
+Cache row for index 249e:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=249e
+Cache block 1: valid=0, dirty=0, tag=0, index=249e
+Cache block 2: valid=0, dirty=0, tag=0, index=249e
+Cache block 3: valid=0, dirty=0, tag=0, index=249e
+Cache block 4: valid=0, dirty=0, tag=0, index=249e
+Cache block 5: valid=0, dirty=0, tag=0, index=249e
+Cache block 6: valid=0, dirty=0, tag=0, index=249e
+Cache block 7: valid=0, dirty=0, tag=0, index=249e
+Cache row for index 43b:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=43b
+Cache block 1: valid=0, dirty=0, tag=0, index=43b
+Cache block 2: valid=0, dirty=0, tag=0, index=43b
+Cache block 3: valid=0, dirty=0, tag=0, index=43b
+Cache block 4: valid=0, dirty=0, tag=0, index=43b
+Cache block 5: valid=0, dirty=0, tag=0, index=43b
+Cache block 6: valid=0, dirty=0, tag=0, index=43b
+Cache block 7: valid=0, dirty=0, tag=0, index=43b
+Cache row for index 43c:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=43c
+Cache block 1: valid=0, dirty=0, tag=0, index=43c
+Cache block 2: valid=0, dirty=0, tag=0, index=43c
+Cache block 3: valid=0, dirty=0, tag=0, index=43c
+Cache block 4: valid=0, dirty=0, tag=0, index=43c
+Cache block 5: valid=0, dirty=0, tag=0, index=43c
+Cache block 6: valid=0, dirty=0, tag=0, index=43c
+Cache block 7: valid=0, dirty=0, tag=0, index=43c
+Cache row for index 43c:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=43c
+Cache block 1: valid=0, dirty=0, tag=0, index=43c
+Cache block 2: valid=0, dirty=0, tag=0, index=43c
+Cache block 3: valid=0, dirty=0, tag=0, index=43c
+Cache block 4: valid=0, dirty=0, tag=0, index=43c
+Cache block 5: valid=0, dirty=0, tag=0, index=43c
+Cache block 6: valid=0, dirty=0, tag=0, index=43c
+Cache block 7: valid=0, dirty=0, tag=0, index=43c
+Cache row for index 43d:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=43d
+Cache block 1: valid=0, dirty=0, tag=0, index=43d
+Cache block 2: valid=0, dirty=0, tag=0, index=43d
+Cache block 3: valid=0, dirty=0, tag=0, index=43d
+Cache block 4: valid=0, dirty=0, tag=0, index=43d
+Cache block 5: valid=0, dirty=0, tag=0, index=43d
+Cache block 6: valid=0, dirty=0, tag=0, index=43d
+Cache block 7: valid=0, dirty=0, tag=0, index=43d
+Cache row for index 43e:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=43e
+Cache block 1: valid=0, dirty=0, tag=0, index=43e
+Cache block 2: valid=0, dirty=0, tag=0, index=43e
+Cache block 3: valid=0, dirty=0, tag=0, index=43e
+Cache block 4: valid=0, dirty=0, tag=0, index=43e
+Cache block 5: valid=0, dirty=0, tag=0, index=43e
+Cache block 6: valid=0, dirty=0, tag=0, index=43e
+Cache block 7: valid=0, dirty=0, tag=0, index=43e
+Cache row for index 43e:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=43e
+Cache block 1: valid=0, dirty=0, tag=0, index=43e
+Cache block 2: valid=0, dirty=0, tag=0, index=43e
+Cache block 3: valid=0, dirty=0, tag=0, index=43e
+Cache block 4: valid=0, dirty=0, tag=0, index=43e
+Cache block 5: valid=0, dirty=0, tag=0, index=43e
+Cache block 6: valid=0, dirty=0, tag=0, index=43e
+Cache block 7: valid=0, dirty=0, tag=0, index=43e
+Cache row for index 43f:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=43f
+Cache block 1: valid=0, dirty=0, tag=0, index=43f
+Cache block 2: valid=0, dirty=0, tag=0, index=43f
+Cache block 3: valid=0, dirty=0, tag=0, index=43f
+Cache block 4: valid=0, dirty=0, tag=0, index=43f
+Cache block 5: valid=0, dirty=0, tag=0, index=43f
+Cache block 6: valid=0, dirty=0, tag=0, index=43f
+Cache block 7: valid=0, dirty=0, tag=0, index=43f
+Cache row for index 440:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=440
+Cache block 1: valid=0, dirty=0, tag=0, index=440
+Cache block 2: valid=0, dirty=0, tag=0, index=440
+Cache block 3: valid=0, dirty=0, tag=0, index=440
+Cache block 4: valid=0, dirty=0, tag=0, index=440
+Cache block 5: valid=0, dirty=0, tag=0, index=440
+Cache block 6: valid=0, dirty=0, tag=0, index=440
+Cache block 7: valid=0, dirty=0, tag=0, index=440
+Cache row for index 249f:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=249f
+Cache block 1: valid=0, dirty=0, tag=0, index=249f
+Cache block 2: valid=0, dirty=0, tag=0, index=249f
+Cache block 3: valid=0, dirty=0, tag=0, index=249f
+Cache block 4: valid=0, dirty=0, tag=0, index=249f
+Cache block 5: valid=0, dirty=0, tag=0, index=249f
+Cache block 6: valid=0, dirty=0, tag=0, index=249f
+Cache block 7: valid=0, dirty=0, tag=0, index=249f
+Cache row for index 249a:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=249a
+Cache block 1: valid=0, dirty=0, tag=0, index=249a
+Cache block 2: valid=0, dirty=0, tag=0, index=249a
+Cache block 3: valid=0, dirty=0, tag=0, index=249a
+Cache block 4: valid=0, dirty=0, tag=0, index=249a
+Cache block 5: valid=0, dirty=0, tag=0, index=249a
+Cache block 6: valid=0, dirty=0, tag=0, index=249a
+Cache block 7: valid=0, dirty=0, tag=0, index=249a
+Cache row for index 3b80:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=3b80
+Cache block 1: valid=0, dirty=0, tag=0, index=3b80
+Cache block 2: valid=0, dirty=0, tag=0, index=3b80
+Cache block 3: valid=0, dirty=0, tag=0, index=3b80
+Cache block 4: valid=0, dirty=0, tag=0, index=3b80
+Cache block 5: valid=0, dirty=0, tag=0, index=3b80
+Cache block 6: valid=0, dirty=0, tag=0, index=3b80
+Cache block 7: valid=0, dirty=0, tag=0, index=3b80
+Cache row for index 3b81:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=3b81
+Cache block 1: valid=0, dirty=0, tag=0, index=3b81
+Cache block 2: valid=0, dirty=0, tag=0, index=3b81
+Cache block 3: valid=0, dirty=0, tag=0, index=3b81
+Cache block 4: valid=0, dirty=0, tag=0, index=3b81
+Cache block 5: valid=0, dirty=0, tag=0, index=3b81
+Cache block 6: valid=0, dirty=0, tag=0, index=3b81
+Cache block 7: valid=0, dirty=0, tag=0, index=3b81
+Cache row for index 3b83:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=3b83
+Cache block 1: valid=0, dirty=0, tag=0, index=3b83
+Cache block 2: valid=0, dirty=0, tag=0, index=3b83
+Cache block 3: valid=0, dirty=0, tag=0, index=3b83
+Cache block 4: valid=0, dirty=0, tag=0, index=3b83
+Cache block 5: valid=0, dirty=0, tag=0, index=3b83
+Cache block 6: valid=0, dirty=0, tag=0, index=3b83
+Cache block 7: valid=0, dirty=0, tag=0, index=3b83
+Cache row for index 3b83:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=3b83
+Cache block 1: valid=0, dirty=0, tag=0, index=3b83
+Cache block 2: valid=0, dirty=0, tag=0, index=3b83
+Cache block 3: valid=0, dirty=0, tag=0, index=3b83
+Cache block 4: valid=0, dirty=0, tag=0, index=3b83
+Cache block 5: valid=0, dirty=0, tag=0, index=3b83
+Cache block 6: valid=0, dirty=0, tag=0, index=3b83
+Cache block 7: valid=0, dirty=0, tag=0, index=3b83
+Cache row for index 3b83:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=3b83
+Cache block 1: valid=0, dirty=0, tag=0, index=3b83
+Cache block 2: valid=0, dirty=0, tag=0, index=3b83
+Cache block 3: valid=0, dirty=0, tag=0, index=3b83
+Cache block 4: valid=0, dirty=0, tag=0, index=3b83
+Cache block 5: valid=0, dirty=0, tag=0, index=3b83
+Cache block 6: valid=0, dirty=0, tag=0, index=3b83
+Cache block 7: valid=0, dirty=0, tag=0, index=3b83
+Cache row for index 3b83:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=3b83
+Cache block 1: valid=0, dirty=0, tag=0, index=3b83
+Cache block 2: valid=0, dirty=0, tag=0, index=3b83
+Cache block 3: valid=0, dirty=0, tag=0, index=3b83
+Cache block 4: valid=0, dirty=0, tag=0, index=3b83
+Cache block 5: valid=0, dirty=0, tag=0, index=3b83
+Cache block 6: valid=0, dirty=0, tag=0, index=3b83
+Cache block 7: valid=0, dirty=0, tag=0, index=3b83
+Cache row for index 3b84:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=3b84
+Cache block 1: valid=0, dirty=0, tag=0, index=3b84
+Cache block 2: valid=0, dirty=0, tag=0, index=3b84
+Cache block 3: valid=0, dirty=0, tag=0, index=3b84
+Cache block 4: valid=0, dirty=0, tag=0, index=3b84
+Cache block 5: valid=0, dirty=0, tag=0, index=3b84
+Cache block 6: valid=0, dirty=0, tag=0, index=3b84
+Cache block 7: valid=0, dirty=0, tag=0, index=3b84
+Cache row for index 3b84:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=3b84
+Cache block 1: valid=0, dirty=0, tag=0, index=3b84
+Cache block 2: valid=0, dirty=0, tag=0, index=3b84
+Cache block 3: valid=0, dirty=0, tag=0, index=3b84
+Cache block 4: valid=0, dirty=0, tag=0, index=3b84
+Cache block 5: valid=0, dirty=0, tag=0, index=3b84
+Cache block 6: valid=0, dirty=0, tag=0, index=3b84
+Cache block 7: valid=0, dirty=0, tag=0, index=3b84
+Cache row for index 3b84:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=3b84
+Cache block 1: valid=0, dirty=0, tag=0, index=3b84
+Cache block 2: valid=0, dirty=0, tag=0, index=3b84
+Cache block 3: valid=0, dirty=0, tag=0, index=3b84
+Cache block 4: valid=0, dirty=0, tag=0, index=3b84
+Cache block 5: valid=0, dirty=0, tag=0, index=3b84
+Cache block 6: valid=0, dirty=0, tag=0, index=3b84
+Cache block 7: valid=0, dirty=0, tag=0, index=3b84
+Cache row for index 249b:
+Cache block 0: valid=1, dirty=0, tag=7c91, index=249b
+Cache block 1: valid=0, dirty=0, tag=0, index=249b
+Cache block 2: valid=0, dirty=0, tag=0, index=249b
+Cache block 3: valid=0, dirty=0, tag=0, index=249b
+Cache block 4: valid=0, dirty=0, tag=0, index=249b
+Cache block 5: valid=0, dirty=0, tag=0, index=249b
+Cache block 6: valid=0, dirty=0, tag=0, index=249b
+Cache block 7: valid=0, dirty=0, tag=0, index=249b
+Cache row for index 3339:
+Cache block 0: valid=1, dirty=0, tag=7c80, index=3339
+Cache block 1: valid=0, dirty=0, tag=0, index=3339
+Cache block 2: valid=0, dirty=0, tag=0, index=3339
+Cache block 3: valid=0, dirty=0, tag=0, index=3339
+Cache block 4: valid=0, dirty=0, tag=0, index=3339
+Cache block 5: valid=0, dirty=0, tag=0, index=3339
+Cache block 6: valid=0, dirty=0, tag=0, index=3339
+Cache block 7: valid=0, dirty=0, tag=0, index=3339
+Cache row for index 333b:
+Cache block 0: valid=1, dirty=0, tag=7c80, index=333b
+Cache block 1: valid=0, dirty=0, tag=0, index=333b
+Cache block 2: valid=0, dirty=0, tag=0, index=333b
+Cache block 3: valid=0, dirty=0, tag=0, index=333b
+Cache block 4: valid=0, dirty=0, tag=0, index=333b
+Cache block 5: valid=0, dirty=0, tag=0, index=333b
+Cache block 6: valid=0, dirty=0, tag=0, index=333b
+Cache block 7: valid=0, dirty=0, tag=0, index=333b
+Cache row for index 333c:
+Cache block 0: valid=1, dirty=0, tag=7c80, index=333c
+Cache block 1: valid=0, dirty=0, tag=0, index=333c
+Cache block 2: valid=0, dirty=0, tag=0, index=333c
+Cache block 3: valid=0, dirty=0, tag=0, index=333c
+Cache block 4: valid=0, dirty=0, tag=0, index=333c
+Cache block 5: valid=0, dirty=0, tag=0, index=333c
+Cache block 6: valid=0, dirty=0, tag=0, index=333c
+Cache block 7: valid=0, dirty=0, tag=0, index=333c
+Cache row for index 333e:
+Cache block 0: valid=1, dirty=0, tag=7c80, index=333e
+Cache block 1: valid=0, dirty=0, tag=0, index=333e
+Cache block 2: valid=0, dirty=0, tag=0, index=333e
+Cache block 3: valid=0, dirty=0, tag=0, index=333e
+Cache block 4: valid=0, dirty=0, tag=0, index=333e
+Cache block 5: valid=0, dirty=0, tag=0, index=333e
+Cache block 6: valid=0, dirty=0, tag=0, index=333e
+Cache block 7: valid=0, dirty=0, tag=0, index=333e
+Cache row for index 333f:
+Cache block 0: valid=1, dirty=0, tag=7c80, index=333f
+Cache block 1: valid=0, dirty=0, tag=0, index=333f
+Cache block 2: valid=0, dirty=0, tag=0, index=333f
+Cache block 3: valid=0, dirty=0, tag=0, index=333f
+Cache block 4: valid=0, dirty=0, tag=0, index=333f
+Cache block 5: valid=0, dirty=0, tag=0, index=333f
+Cache block 6: valid=0, dirty=0, tag=0, index=333f
+Cache block 7: valid=0, dirty=0, tag=0, index=333f
+Cache row for index 333f:
+Cache block 0: valid=1, dirty=0, tag=7c80, index=333f
+Cache block 1: valid=0, dirty=0, tag=0, index=333f
+Cache block 2: valid=0, dirty=0, tag=0, index=333f
+Cache block 3: valid=0, dirty=0, tag=0, index=333f
+Cache block 4: valid=0, dirty=0, tag=0, index=333f
+Cache block 5: valid=0, dirty=0, tag=0, index=333f
+Cache block 6: valid=0, dirty=0, tag=0, index=333f
+Cache block 7: valid=0, dirty=0, tag=0, index=333f
+Cache row for index 3a28:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=3a28
+Cache block 1: valid=0, dirty=0, tag=0, index=3a28
+Cache block 2: valid=0, dirty=0, tag=0, index=3a28
+Cache block 3: valid=0, dirty=0, tag=0, index=3a28
+Cache block 4: valid=0, dirty=0, tag=0, index=3a28
+Cache block 5: valid=0, dirty=0, tag=0, index=3a28
+Cache block 6: valid=0, dirty=0, tag=0, index=3a28
+Cache block 7: valid=0, dirty=0, tag=0, index=3a28
+Cache row for index 3a2a:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=3a2a
+Cache block 1: valid=0, dirty=0, tag=0, index=3a2a
+Cache block 2: valid=0, dirty=0, tag=0, index=3a2a
+Cache block 3: valid=0, dirty=0, tag=0, index=3a2a
+Cache block 4: valid=0, dirty=0, tag=0, index=3a2a
+Cache block 5: valid=0, dirty=0, tag=0, index=3a2a
+Cache block 6: valid=0, dirty=0, tag=0, index=3a2a
+Cache block 7: valid=0, dirty=0, tag=0, index=3a2a
+Cache row for index 3a2b:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=3a2b
+Cache block 1: valid=0, dirty=0, tag=0, index=3a2b
+Cache block 2: valid=0, dirty=0, tag=0, index=3a2b
+Cache block 3: valid=0, dirty=0, tag=0, index=3a2b
+Cache block 4: valid=0, dirty=0, tag=0, index=3a2b
+Cache block 5: valid=0, dirty=0, tag=0, index=3a2b
+Cache block 6: valid=0, dirty=0, tag=0, index=3a2b
+Cache block 7: valid=0, dirty=0, tag=0, index=3a2b
+Cache row for index 3ae2:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=3ae2
+Cache block 1: valid=0, dirty=0, tag=0, index=3ae2
+Cache block 2: valid=0, dirty=0, tag=0, index=3ae2
+Cache block 3: valid=0, dirty=0, tag=0, index=3ae2
+Cache block 4: valid=0, dirty=0, tag=0, index=3ae2
+Cache block 5: valid=0, dirty=0, tag=0, index=3ae2
+Cache block 6: valid=0, dirty=0, tag=0, index=3ae2
+Cache block 7: valid=0, dirty=0, tag=0, index=3ae2
+Cache row for index 3ae3:
+Cache block 0: valid=1, dirty=0, tag=7c90, index=3ae3
+Cache block 1: valid=0, dirty=0, tag=0, index=3ae3
+Cache block 2: valid=0, dirty=0, tag=0, index=3ae3
+Cache block 3: valid=0, dirty=0, tag=0, index=3ae3
+Cache block 4: valid=0, dirty=0, tag=0, index=3ae3
+Cache block 5: valid=0, dirty=0, tag=0, index=3ae3
+Cache block 6: valid=0, dirty=0, tag=0, index=3ae3
+Cache block 7: valid=0, dirty=0, tag=0, index=3ae3
+Queue is empty
