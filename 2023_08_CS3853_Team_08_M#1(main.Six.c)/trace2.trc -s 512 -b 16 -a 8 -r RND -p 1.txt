@@ -1,0 +1,41 @@
+Cache Simulator - CS 3853 – Group #08
+
+Trace File: trace2.trc
+
+***** Cache Input Parameters *****
+Cache Size: 512 KB
+Block Size: 16 bytes
+Associativity: 8
+replacement Policy: RND
+Physical Memory: 1
+
+***** Cache Calculated Values *****
+
+Total # Blocks: 32768
+Tag Size: 16 bits
+Index Size: 12 bits
+Total # Rows: 4096
+Overhead Size: 69632 bytes
+Implementation Memory Size: 580.00 KB (593920 bytes)
+Cost: $52.20
+
+Address: 010c1517, length = 2 No data writes/reads occurred
+Address: 01156ef6, length = 6 No data writes/reads occurred
+Address: 01156efc, length = 1 No data writes/reads occurred
+Address: 011cde6b, length = 3 No data writes/reads occurred
+Address: 011cde6e, length = 3  No data writes and Data read at 0012efc4, length=4
+Address: 011cde71, length = 2 No data writes/reads occurred
+Address: 011cde73, length = 6 No data writes/reads occurred
+Address: 011cde79, length = 1 No data writes/reads occurred
+Address: 011cde7a, length = 6 No data writes/reads occurred
+Address: 011ce0e9, length = 3  No data writes and Data read at 0012efc8, length=4
+Address: 011ce0ec, length = 5 No data writes/reads occurred
+Address: 011cdea8, length = 5 No data writes/reads occurred
+Address: 011cdead, length = 2 No data writes/reads occurred
+Address: 011cdeaf, length = 5 No data writes/reads occurred
+Address: 011cec9a, length = 1 No data writes/reads occurred
+Address: 011cec9b, length = 2 No data writes/reads occurred
+Address: 011cec9d, length = 1 No data writes/reads occurred
+Address: 011cec9e, length = 1 No data writes/reads occurred
+Address: 011cec9f, length = 4  No data writes and Data read at 0012ef4c, length=4
+Address: 011ceca3, length = 4 No data writes/reads occurred
